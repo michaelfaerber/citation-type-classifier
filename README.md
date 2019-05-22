@@ -15,4 +15,4 @@ This repository contains the [training](train-500-sw.xlsx) and [test](test-100-n
 ## Contact
 The system has been designed and implemented by Michael Färber and Ashwath Sampath. Feel free to reach out to us:
 
-[Michael Färber](https://sites.google.com/view/michaelfaerber), michael.faerber@cs&#46;kit&#46;edu
+[Michael Färber](https://sites.google.com/view/michaelfaerber), michael.faerber@kit&#46;edu
