@@ -9,7 +9,7 @@ The citation
 
 We argue that determining such classes for citation contexts is useful for a variety of tasks, such as improved citation recommendation and scientific impact quantification.
 
-This repository contains the [training](train-500-sw.xlsx) and [test](test-100-nlp.xlsx) data sets, as well as the a multi-label gradient boosting classifier as machine-learning-based classifier for determining the classes automatically based on citation contexts.
+This repository contains the [training](train-500-sw.xlsx) and [test](test-100-nlp.xlsx) data sets, as well as the a [multi-label gradient boosting classifier](contexttypes.py) as machine-learning-based classifier for determining the classes automatically based on citation contexts.
 
 
 ## Contact
